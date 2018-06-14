@@ -6,7 +6,7 @@ export default {
     extensions: ['.js', '.jsx'],
   },
   output: {
-    filename: './dist/main.js', /* 106 KiB */
+    filename: './docs/main.js', /* 106 KiB */
     path: resolve('.'),
   },
   module: {
